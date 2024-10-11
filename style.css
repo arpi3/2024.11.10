@@ -1,0 +1,22 @@
+body {
+    background-color: #debe97;
+    font-family: Arial, sans-serif;
+    margin: auto;
+
+}
+
+#content {
+    width: 600px;
+    border: 3px solid ;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #e1d068;
+    border-radius: 10px;
+     border-color: #5a7b36;
+}
+
+h1 {
+    color: #bc5525;
+    text-align: center;
+}
+
