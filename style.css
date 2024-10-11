@@ -11,10 +11,10 @@ h1{ width: 600px;
     background-color: #e1d068;
     border-radius: 10px;
      border-color: #5a7b36;
-     font-family: Georgia, 'Times New Roman', Times, serif;
-}
+     font-family: Franklin Gothic Medium;}
 
-#content {
+#content 
+{
     width: 600px;
     border: 3px solid ;
     margin: 50px auto;
@@ -26,8 +26,15 @@ h1{ width: 600px;
 
 }
 
-h1 {
+h1 
+{
     color: #bc5525;
     text-align: center;
+}
+section
+{ 
+    font-family: Franklin Gothic Medium;
+color:#bc5525 ;
+text-align: justify;
 }
 
